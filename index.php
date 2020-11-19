@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Hello Base Theme</h1>
+        <h1>Olá</h1>
         <button class="btn btn-primary">Button</button>
     </div>
 
