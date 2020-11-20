@@ -18,7 +18,6 @@
                 </div>
             </div>
         </div>
-        <script src="<?= THEME_URI; ?>/assets/js/app.js"></script>
 
         <?php wp_footer(); ?>
     </body>
