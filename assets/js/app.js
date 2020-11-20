@@ -18093,8 +18093,8 @@ try {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/valls/son/curso/starter/src/js/app.js */"./src/js/app.js");
-module.exports = __webpack_require__(/*! /home/valls/son/curso/starter/src/sass/app.scss */"./src/sass/app.scss");
+__webpack_require__(/*! /home/valls/son/curso/starter/wp-content/themes/starter-theme/src/js/app.js */"./src/js/app.js");
+module.exports = __webpack_require__(/*! /home/valls/son/curso/starter/wp-content/themes/starter-theme/src/sass/app.scss */"./src/sass/app.scss");
 
 
 /***/ })
